@@ -29,3 +29,4 @@ medianHouseValue: Median house value for households within a block (measured in 
 
 oceanProximity: Location of the house w.r.t ocean/sea
 
+Can watch the project expalanation here : https://youtu.be/u9CV2ZTfi6U
